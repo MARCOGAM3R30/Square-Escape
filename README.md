@@ -12,5 +12,5 @@ type: "pip install pygame"
 right-click on the folder and choos open with terminal
 and write "python gioco_evasione.py"
 
-
+special thanks to @L2000
 have fun!!
